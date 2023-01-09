@@ -363,7 +363,7 @@ header
 
 .header-area .main-nav .nav li:last-child {
   padding-right: 0px;
-  padding-left: 40px;
+  padding-left: 0px;
 }
 
 .header-area .main-nav .nav li:last-child a ,
@@ -1633,7 +1633,7 @@ responsive
     margin-left: -5px;
   }
   .header-area .main-nav .nav li:last-child {
-    padding-left: 20px;
+    padding-left: 0px;
   }
 }
 
